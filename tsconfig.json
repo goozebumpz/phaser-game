@@ -25,6 +25,12 @@
       ],
       "@scenes/*": [
         "src/scenes/*"
+      ],
+      "@entities/*": [
+        "src/entities/*"
+      ],
+      "@shared/*": [
+        "src/shared/*"
       ]
     },
   },
