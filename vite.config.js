@@ -8,6 +8,7 @@ export default defineConfig({
             "@scenes/*": path.resolve(__dirname, "./src/scenes/*"),
             "@entities/*": path.resolve(__dirname, "./src/entities/*"),
             "@shared/*": path.resolve(__dirname, "./src/shared/*"),
+            "@assets/*": path.resolve(__dirname, "./src/assets/*"),
         },
     },
 })
